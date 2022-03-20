@@ -1,1 +1,20 @@
 
+Ilya Kisliakov
+
+ilya.kislyakov@gmail.com  ||  604-700-5706
+
+Info: I'd like to prepair and gain a developer's job, and be able to do all the tasks required for that  , my priorities are education, family and developing skills in tech, my strong sides are: persistance, strong interpersanal skills, interest in tech, my experience in software development is internship in ERP project
+JavaScript, React, Python, Github, AntDesign, WebStorm.
+
+Code Examples:
+*
+
+
+
+*
+
+Work Experience: Junior Dev in LocalCoding.
+
+Education: Associate degree in Computer Science, Networking Diploma, PASV coding school courses
+
+English level is good, have had enough working experience as well as professional experience during development process and meetings.
