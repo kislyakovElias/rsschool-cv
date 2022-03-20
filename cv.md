@@ -8,9 +8,19 @@ JavaScript, React, Python, Github, AntDesign, WebStorm.
 
 Code Examples:
 *
-
-
-
+function squareArea(A){
+  let r = (A*4)/(2*Math.PI)
+  return (Math.round(Math.pow(r,2)*100))/100
+}
+*
+function slope(p)
+{
+  let a = (p[3]-p[1])/(p[2]-p[0])
+  if(isFinite(a)){
+    return ''+a
+  }
+return 'undefined'
+}
 *
 
 Work Experience: Junior Dev in LocalCoding.
