@@ -22,6 +22,14 @@ function slope(p)
   }
 return 'undefined'
 }
+function slope(points)
+{ if ((points[2] - points[0]) === 0) return 'undefined';
+return (points[3] - points[1]) / (points[2] - points[0]) + '';
+//..
+}
+
+
+console.log(slope([19,3,20,3]));
 *
 
 Work Experience: Junior Dev in LocalCoding.
